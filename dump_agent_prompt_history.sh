@@ -3,7 +3,7 @@
 # This script dumps the system message (instructions) for a Foundry prompt
 # agent across all of the available versions of the agent.
 #
-# Usage: ./show_agent_prompt_history.sh <agent-uri>
+# Usage: ./dump_agent_prompt_history.sh <agent-uri>
 #
 # The agent URI is self-contained (account + project + agent), e.g.:
 #   https://FOUNDRY.services.ai.azure.com/api/projects/FOUNDRY-PROJ/agents/wifi-helper-luna/endpoint/protocols/openai/responses
